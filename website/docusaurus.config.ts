@@ -556,7 +556,7 @@ export default async function createConfigAsync() {
       },
       announcementBar: {
         id: `announcementBar-v${announcedVersion}`,
-        // content: `⭐️ If you like Docusaurus, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/facebook/docusaurus">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/docusaurus">Twitter ${TwitterSvg}</a>`,
+        // content: `⭐️ If you like Docusaurus, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://www.543x.com">GitHub</a> and follow us on <a target="_blank" rel="noopener noreferrer" href="https://twitter.com/docusaurus">Twitter ${TwitterSvg}</a>`,
         content: `🎉️ <b><a target="_blank" href="https://docusaurus.io/blog/releases/${announcedVersion}">Docusaurus v${announcedVersion}</a> is out!</b> 🥳️`,
       },
       prism: {
@@ -730,7 +730,7 @@ export default async function createConfigAsync() {
             items: [
               {
                 label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://e.543x.com',
               },
               {
                 label: 'Feature Requests',
@@ -738,7 +738,7 @@ export default async function createConfigAsync() {
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://s.543x.com',
               },
               {
                 label: 'Help',
@@ -759,22 +759,22 @@ export default async function createConfigAsync() {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://www.543x.com',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://pump.543x.com',
               },
               {
                 html: `
-                <a href="https://www.netlify.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
+                <a href="https://www.543x.com.com" target="_blank" rel="noreferrer noopener" aria-label="Deploys by Netlify">
                   <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" alt="Deploys by Netlify" width="114" height="51" />
                 </a>
               `,
               },
               {
                 html: `
-                <a href="https://argos-ci.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos">
+                <a href="https://www.543x.com" target="_blank" rel="noreferrer noopener" aria-label="Covered by Argos">
                   <img src="https://argos-ci.com/badge.svg" alt="Covered by Argos" width="133" height="20" />
                 </a>
               `,
@@ -788,15 +788,15 @@ export default async function createConfigAsync() {
             items: [
               {
                 label: 'Privacy',
-                href: 'https://opensource.facebook.com/legal/privacy/',
+                href: 'https://btc.543x.com/',
               },
               {
                 label: 'Terms',
-                href: 'https://opensource.facebook.com/legal/terms/',
+                href: 'https://bnb.543x.com/',
               },
               {
                 label: 'Cookie Policy',
-                href: 'https://opensource.facebook.com/legal/cookie-policy/',
+                href: 'https://sol.543x.com/',
               },
             ],
           },
